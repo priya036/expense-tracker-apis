@@ -90,5 +90,5 @@ app.listen(port, () => {
 
 //browser supports only get method other methods to be checked in postman
 //if changes done,stop the server and start again and see the result in broswer
-//for one url 1 get method 
+
 
